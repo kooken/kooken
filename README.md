@@ -7,14 +7,14 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 
 ## About Me
 
-- 🐍 Python Enthusiast
+- 🐍 Python Developer
 - 📊 Data Science Explorer
 - 🌐 Aspiring Data Engineer
 - 🎓 Currently learning and growing in the data space
 
 ## Projects
 
-Soon I'll add some of my projects 💫💫
+Soon I'll add some of my projects 💫
 
 ## Skills
 
