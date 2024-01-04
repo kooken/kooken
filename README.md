@@ -30,6 +30,6 @@ Soon I'll add some of my projects 💫💫
 
 Feel free to explore my repositories, contribute, or reach out for collaboration. I'm always eager to learn, share ideas, and connect with fellow Python and Data Science enthusiasts.
 
-[LinkedIn](https://www.linkedin.com/in/mariasazhina/) | [e-mail me:] msazhina23@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mariasazhina/) | e-mail me: msazhina23@gmail.com
 
 Looking forward to the journey ahead! 🚀
