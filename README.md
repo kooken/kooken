@@ -7,6 +7,7 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 
 ## About Me
 
+- 👩🏻‍🔬 former doctor & researcher
 - 🐍 Python Developer
 - 📊 Data Science Explorer
 - 🌐 Aspiring Data Engineer
