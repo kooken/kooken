@@ -15,6 +15,7 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 
 ## Stats
 [![Maria's GitHub stats](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app//api?username=kooken)](https://github.com/kooken/github-readme-stats)
+[![Top Langs](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs/?username=kooken)](https://github.com/kooken/github-readme-stats)
 
 
 ## Projects
