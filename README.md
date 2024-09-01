@@ -13,13 +13,17 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 - 🌐 Aspiring Data Engineer
 - 🎓 Currently learning and growing in the data space
 
+## Stats
+[![Maria's GitHub stats](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app//api?username=kooken)](https://github.com/kooken/github-readme-stats)
+
+
 ## Projects
 
 Soon I'll add some of my projects 💫
 
 ## Skills
 
-- **Programming Languages:** Python, Go (Golang)
+- **Programming Languages:** Python, JavaScript, C, Go (Golang)
 - **Web Development:** Django
 - **API Development:** Django Rest Framework (DRF)
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
