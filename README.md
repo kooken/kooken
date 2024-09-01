@@ -8,19 +8,17 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 ## About Me
 
 - 👩🏻‍🔬 former doctor & researcher
-- 🐍 Python Developer
-- 📊 Data Science Explorer
-- 🌐 Aspiring Data Engineer
-- 🎓 Currently learning and growing in the data space
+- 🐍 (not only) Python Developer
+- 🧚🏻‍♀️ currently learning C & JavaScript
+- 🎓 growing in the coding world
 
 ## Stats
-[![Maria's GitHub stats](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app//api?username=kooken)](https://github.com/kooken/github-readme-stats)
-[![Top Langs](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs/?username=kooken)](https://github.com/kooken/github-readme-stats)
+[![My Top Langs](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs/?username=kooken&theme=buefy&show_icons=true)](https://github.com/kooken/github-readme-stats)
 
 
 ## Projects
 
-Soon I'll add some of my projects 💫
+Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
 
 ## Skills
 
@@ -34,7 +32,7 @@ Soon I'll add some of my projects 💫
 
 ## Let's Connect!
 
-Feel free to explore my repositories, contribute, or reach out for collaboration. I'm always eager to learn, share ideas, and connect with fellow Python and Data Science enthusiasts.
+Feel free to explore my repositories, contribute, or reach out for collaboration. I'm always eager to learn, share ideas, and connect with fellow coding enthusiasts.
 
 [LinkedIn](https://www.linkedin.com/in/mariasazhina/) | e-mail me: msazhina23@gmail.com
 
