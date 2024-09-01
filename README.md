@@ -18,8 +18,13 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 ## Projects
 
 Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
-[![Readme Card](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=KookenBot)](https://github.com/kooken/KookenBot)
 
+<a href="https://github.com/kooken/KookenBot">
+  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=KookenBot" />
+</a>
+<a href="https://github.com/kooken/Bulletin-Board">
+  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board" />
+</a>
 
 ## Skills
 
