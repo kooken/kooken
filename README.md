@@ -18,7 +18,7 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
   <img height=200 align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api?username=kooken&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/github-readme-stats">
-  <img height=200 align="center" src="https://https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs?username=kooken&&theme=buefy&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs?username=kooken&theme=buefy&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Projects
@@ -26,10 +26,10 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
 
 <a href="https://github.com/kooken/KookenBot">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=KookenBot" />
+  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=KookenBot&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/Bulletin-Board">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board" />
+  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board&theme=buefy" />
 </a>
 
 ## Skills
