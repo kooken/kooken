@@ -13,8 +13,7 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 - 🎓 growing in the coding world
 
 ## Stats
-[![My Top Langs](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs/?username=kooken&theme=buefy&show_icons=true)](https://github.com/kooken/github-readme-stats)
-
+[![My Top Langs](https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs/?username=kooken&theme=buefy&show_icons=true&layout=compact)](https://github.com/kooken/github-readme-stats)
 
 ## Projects
 
