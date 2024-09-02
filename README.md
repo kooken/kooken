@@ -15,7 +15,7 @@ I'm passionate about Python and Data Science. Here, you'll find a collection of 
 ## Stats
 
 <a href="https://github.com/kooken/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api?username=kooken&show_icons=true&theme=buefy" />
+  <img height=200 align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api?username=kooken&show_icons=true&theme=buefy&card_width=320" />
 </a>
 <a href="https://github.com/kooken/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320" />
