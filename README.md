@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Maria.
 
 Welcome to my GitHub profile! 
-I'm passionate about Python and Data Science. Here, you'll find a collection of projects and repositories that reflect my journey and exploration in the exciting world of data.
+I'm passionate about coding. Here, you'll find a collection of projects and repositories that reflect my journey and exploration in the exciting world of programming.
 
 ## About Me
 
