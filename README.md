@@ -31,9 +31,14 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 <a href="https://github.com/kooken/Bulletin-Board">
   <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board&theme=buefy" />
 </a>
-<a href="[https://github.com/kooken/Bulletin-Board](https://github.com/kooken/JavaScript)">
+<a href="https://github.com/kooken/JavaScript">
   <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=JavaScript&theme=buefy" />
 </a>
+<a href="https://github.com/kooken/kotlin-course">
+  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=kotlin-course&theme=buefy" />
+</a>
+
+
 
 ## Skills
 
