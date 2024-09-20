@@ -9,7 +9,7 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 
 - 👩🏻‍🔬 former doctor & researcher
 - 🐍 (not only) Python Developer
-- 🧚🏻‍♀️ currently learning C & JavaScript
+- 🧚🏻‍♀️ currently learning C, JavaScript & Kotlin (I'm not crazy, just enjoy learning new languages!)
 - 🎓 growing in the coding world
 
 ## Stats
