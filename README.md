@@ -9,7 +9,7 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 
 - 👩🏻‍🔬 former doctor & researcher
 - 🐍 (not only) Python Developer
-- 🧚🏻‍♀️ currently learning C, JavaScript & Kotlin (I'm not crazy, just enjoy learning new languages!)
+- 🧚🏻‍♀️ currently learning Go, JavaScript & Kotlin (I'm not crazy, just enjoy learning new languages!)
 - 🎓 growing in the coding world
 
 ## Stats
@@ -42,7 +42,7 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, C, Kotlin
+- **Programming Languages:** Python, JavaScript, C, Kotlin, Go
 - **Web Development:** Django, HTML/CSS, Node.js, React.js
 - **API Development:** DRF, Node.js 
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
