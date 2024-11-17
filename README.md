@@ -19,7 +19,7 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 </a>
 
 <a href="https://github.com/kooken/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile,css" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile,css&hide_border=true" />
 </a>
 
 ## Projects
