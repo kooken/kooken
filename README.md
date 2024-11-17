@@ -15,7 +15,7 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kooken&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile)<br/>
 
 <a href="https://github.com/kooken/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api?username=kooken&show_icons=true&theme=buefy&card_width=320&hide_rank=true&include_all_commits=true" />
