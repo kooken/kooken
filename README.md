@@ -14,15 +14,12 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kooken&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile)<br/>
-
 <a href="https://github.com/kooken/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kooken&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&show_icons=true" />
 </a>
 
 <a href="https://github.com/kooken/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile&hide=css" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kooken&theme=buefy&show_icons=true&layout=compact&card_width=320&hide=dockerfile,css" />
 </a>
 
 ## Projects
@@ -30,16 +27,16 @@ I'm passionate about coding & learning. Here you'll find a collection of project
 Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
 
 <a href="https://github.com/kooken/C-Piscine-Hive">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=C-Piscine-Hive&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=C-Piscine-Hive&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/koodSisuSprint">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=koodSisuSprint&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=koodSisuSprint&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/Bulletin-Board">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/JavaScript">
-  <img align="center" src="https://github-readme-stats-marias-projects-3dbf7adc.vercel.app/api/pin/?username=kooken&repo=JavaScript&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=JavaScript&theme=buefy" />
 </a>
 
 ## Skills
