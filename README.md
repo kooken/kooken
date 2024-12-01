@@ -43,7 +43,7 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 
 - **Programming Languages:** Python, Go, JavaScript, C, Kotlin
 - **Web Development:** Django, HTML/CSS, Node.js, React.js
-- **API Development:** DRF, Node.js 
+- **API Development:** DRF, FastAPI
 - **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
 - **Database:** SQL, PostgreSQL/MySQL
 - **Containerization:** Docker
