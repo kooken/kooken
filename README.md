@@ -29,6 +29,8 @@ I'm passionate about coding, learning, and building things that make other peopl
 
 Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
 
+🔒 Most of my Go repositories are private due to school policy — happy to share them on request!
+
 <a href="https://github.com/kooken/C-Piscine-Hive">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=C-Piscine-Hive&theme=buefy" />
 </a>
