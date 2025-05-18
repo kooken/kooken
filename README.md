@@ -11,7 +11,7 @@ I'm passionate about coding, learning, and building things that make other peopl
 - 🐍 started with Python, now building with Go & JavaScript too
 - 📚 studying at [kood/Sisu](https://koodsisu.fi) — on my way to becoming a full-stack developer
 - 🧚🏻‍♀️ currently learning Go & JavaScript (I'm not crazy, just enjoy learning new languages!)
-- 🎮 exploring game development with Unreal Engine and having fun breaking (and fixing) things  
+- 📡 exploring IoT and embedded systems, having fun connecting (and debugging) devices
 - 🎓 growing in the coding world
 
 
@@ -46,15 +46,15 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, Go, JavaScript, TypeScript (basic), C, Kotlin  
+- **Programming Languages:** Python, Go, C, JavaScript, TypeScript (basic), Kotlin  
 - **Web Development:** Django, Node.js, React.js, HTML/CSS  
 - **API Frameworks:** Django REST Framework (DRF), FastAPI  
 - **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Databases:** SQL, PostgreSQL, MySQL, MongoDB, Redis  
 - **Asynchronous Task Management:** Celery  
 - **Game Development:** Unreal Engine (Blueprints & C++ basics)  
-- **Containerization & DevOps:** Docker, Unix tools, GCC  
-- **Tools & IDEs:** PyCharm, VS Code, IntelliJ IDEA, Jupyter Notebooks, Android Studio
+- **Containerization & DevOps:** Docker, Nginx, Gunicorn, Bash scripting, Unix command-line tools  
+- **Tools & IDEs:** PyCharm, VS Code, IntelliJ IDEA, Jupyter Notebooks
 
 ## 🌟 Core Skills
 
@@ -63,7 +63,8 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 - 🗣️ Strong communication skills — written and verbal  
 - 🧩 Comfortable working in agile, remote, and cross-functional environments  
 - 🧼 Passionate about clean code, reproducibility, and developer experience  
-- 🎮 Gamer mindset — always thinking about systems, feedback loops, and user experience
+- 🧠 Builder mindset — always thinking about systems, feedback loops, and user experience
+- 🌍 Languages: 🇬🇧 English (fluent), 🇫🇮 Finnish (basic — currently learning)
 - 🐸 Certified meme enthusiast — keeping the team laughing is also a skill, right?
 
 ## Let's Connect!
