@@ -35,7 +35,7 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=C-Piscine-Hive&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/codingschool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=codingschool&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=kehoDashboard&theme=buefy" />
 </a>
 <a href="https://github.com/kooken/Bulletin-Board">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=Bulletin-Board&theme=buefy" />
