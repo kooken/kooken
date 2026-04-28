@@ -8,11 +8,11 @@ I'm passionate about coding, learning, and building things that make other peopl
 ## About Me
 
 - 👩🏻‍🔬 former doctor & researcher
-- 🐍 started with Python, now building with Go & JavaScript too
-- 📚 studying at [kood/Sisu](https://koodsisu.fi) — on my way to becoming a full-stack developer
-- 🧚🏻‍♀️ currently learning Go & JavaScript (I'm not crazy, just enjoy learning new languages!)
-- 📡 exploring IoT and embedded systems, having fun connecting (and debugging) devices
-- 🎓 growing in the coding world
+- 🐍 started with Python, currently working with Go and JavaScript
+- 📚 Full-stack development student at [kood/Sisu](https://koodsisu.fi)
+- 🎯 Focused on building user-centered applications with strong UI/UX principles
+- 🧩 Interested in creating intuitive, accessible, and scalable digital solutions
+- 📈 Continuously developing technical skills and product-oriented thinking
 
 
 ## Stats
@@ -27,9 +27,13 @@ I'm passionate about coding, learning, and building things that make other peopl
 
 ## Projects
 
-Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess - working on it!
+💫 I am currently refining my GitHub portfolio and will be adding more selected projects soon.
 
-🔒 Most of my Go repositories are private due to school policy — happy to share them on request!
+🔒 Most of my Go repositories are private due to school policy, but relevant work samples can be shared upon request.
+
+🎮 [JoinGame.dev](https://joingame.dev/) - a game development career platform designed to support aspiring and experienced professionals through curated job opportunities, industry courses, studio discovery, and career coaching.
+
+🌐 [SEEOOW](https://seeoow.com/) - a portfolio website developed for a game and level designer, created to present professional experience, showcase portfolio work, and strengthen their online presence.
 
 <a href="https://github.com/kooken/C-Piscine-Hive">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kooken&repo=C-Piscine-Hive&theme=buefy" />
@@ -46,26 +50,23 @@ Soon I'll add some of my projects 💫 now my GitHub profile looks like a mess -
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, Go, C, JavaScript, TypeScript (basic), Kotlin  
-- **Web Development:** Django, Node.js, React.js, HTML/CSS  
-- **API Frameworks:** Django REST Framework (DRF), FastAPI  
-- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Databases:** SQL, PostgreSQL, MySQL, MongoDB, Redis  
-- **Asynchronous Task Management:** Celery  
-- **Game Development:** Unreal Engine (Blueprints & C++ basics)  
-- **Containerization & DevOps:** Docker, Nginx, Gunicorn, Bash scripting, Unix command-line tools  
-- **Tools & IDEs:** PyCharm, VS Code, IntelliJ IDEA, Jupyter Notebooks
+- **Languages**: Go, Python, JavaScript, TypeScript, C, Kotlin
+- **Full-Stack Web**: Node.js, React.js, Django, FastAPI, HTML5/CSS3
+- **Data & Databases**: PostgreSQL, MySQL, MongoDB, Redis, SQL, Pandas, NumPy
+- **Infrastructure & DevOps**: Docker, Nginx, Gunicorn, Bash Scripting, Unix
+- **Game Engine Foundations**: Unreal Engine (Blueprints & C++)
+- **Development Ecosystem**: VS Code, PyCharm, IntelliJ IDEA, Jupyter
 
 ## 🌟 Core Skills
 
-- 🚀 Fast learner with a strong curiosity for new tools, languages, and ideas  
-- 🤝 Collaborative team player who enjoys supporting others and building shared solutions  
-- 🗣️ Strong communication skills — written and verbal  
-- 🧩 Comfortable working in agile, remote, and cross-functional environments  
-- 🧼 Passionate about clean code, reproducibility, and developer experience  
-- 🧠 Builder mindset — always thinking about systems, feedback loops, and user experience
-- 🌍 Languages: 🇬🇧 English (fluent), 🇫🇮 Finnish (basic — currently learning)
-- 🐸 Certified meme enthusiast — keeping the team laughing is also a skill, right?
+- 🚀 Fast learner with a strong curiosity for new technologies, tools, and concepts
+- 🤝 Collaborative team player with experience supporting peers and contributing to shared goals
+- 🗣️ Strong written and verbal communication skills
+- 🧩 Comfortable working in agile, remote, and cross-functional environments
+- 🧼 Committed to clean code, reproducibility, and a strong developer experience
+- 🧠 Systems-oriented mindset with a focus on usability, feedback, and continuous improvement
+- 🌍 Languages: 🇬🇧 English (fluent), 🇫🇮 Finnish (basic, currently improving)
+- 🐸 Positive team presence with a good sense of humor
 
 ## Let's Connect!
 
